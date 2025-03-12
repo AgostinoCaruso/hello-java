@@ -1,7 +1,7 @@
 package org.lessons.java;
 
-public class classeProva {
+public class StampaSaluto {
     public static void main(String[] args) {
-        System.out.println("PROVA");
+        System.out.println("Saluto Prova");
     }
 }
